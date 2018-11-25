@@ -1,8 +1,6 @@
 ## Welcome to Gao Peng's homepage
 
-![Alt text](IMG_2244.jpg?raw=true "Photo")
-
-![test image size](IMG_2244.jpg){:height="50%" width="50%"}
+![test image size](IMG_2244.jpg){:height="20%" width="20%"}
 
 My name is Gao Peng, a second year of Ph.D. student at Chinese University of Hong Kong supervised by [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). Before that, I spent one year in Singapore, working with [Steven Hoi](http://stevenhoi.org/). I graduated from Zhe Jiang Univeristy.
 
