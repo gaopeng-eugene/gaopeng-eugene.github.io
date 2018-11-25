@@ -4,7 +4,7 @@
 
 My name is Gao Peng, a second year Ph.D. student at Chinese University of Hong Kong supervised by [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). Before that, I spent one year in Singapore, working with [Steven Hoi](http://stevenhoi.org/). I graduated from Zhe Jiang University. 
 
-Thanks so much to my collorators: Hongsheng Li, Steven Hoi, Zekai Jiang and Shuang Li.
+Great thanks to my collaborators: Hongsheng Li, Steven Hoi, Zekai Jiang, Shuang Li and Jianping Shi.
 
 My research interest is in Reinforcement Learning and Deep Learning.
 
@@ -17,7 +17,7 @@ Email : 1155102382@link.cuhk.edu.hk
 4. Exploiting inside and outside modality information flow for Visual Question Answering (Report 2018)
 
 ### Research Project
-Practice influencical algorithm from scratch by myself.
+Practice influential algorithm from scratch by myself.
 1. Play connect 4 by alpha beta pruning
 2. Viteribi algorithm on HMM speech recognition
 3. N Boday simulation acceleration by CUDA
