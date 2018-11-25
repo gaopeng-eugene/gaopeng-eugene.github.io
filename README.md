@@ -1,5 +1,7 @@
 ## Welcome to Gao Peng's homepage
 
+![Alt text](info/code_structure_plot.png?raw=true "Photo")
+
 My name is Gao Peng, a second year of Ph.D. student at Chinese University of Hong Kong supervised by [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). Before that, I spent one year in Singapore, working with [Steven Hoi](http://stevenhoi.org/). I graduated from Zhe Jiang Univeristy.
 
 My research interest is in Reinforcement Learning and Deep Learning.
