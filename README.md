@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+My name is Gao Peng, a second year of Ph.D. student at Chinese University of Hong Kong supervised by [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/). Before that, I spend times at Japan and Singapore, working with great researchers like [Steven Hoi](http://stevenhoi.org/)
 You can use the [editor on GitHub](https://github.com/gaopeng-eugene/gaopeng-eugene.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
